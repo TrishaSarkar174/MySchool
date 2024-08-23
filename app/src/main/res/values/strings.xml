@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MySchool</string>
+    <string name="school_name">Desharee Ideal KinderGarten</string>
+    <string name="button_name">Find Students</string>
+    <string name="default_text">No Option Selected</string>
+    <string-array name="studentsList">
+        <item>Play</item>
+        <item>Nursery</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+</resources>
